@@ -7,9 +7,10 @@ Sinatra webserver
 </div>
 <br>
 
-<h5> Second week at [Makers Academy](http://www.makersacademy.com) 
+<h5> Third week at [Makers Academy](http://www.makersacademy.com) 
 
-Learning the Object Oriented Programming, creating the software for the London bike rental service.
-  - using CRC cards and Kanban
-  - TDD with Ruby (modules and DRY) and RSpec (shared examples and the mighty mocks)
-  - Chicago vs London style testing
+Learning how to use a webserver application
+  - routes & views
+  - passing information with params
+  - using embedded Ruby in HTML
+  - testing the pages on localhost with a rack app 
